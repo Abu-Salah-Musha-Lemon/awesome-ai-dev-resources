@@ -61,6 +61,8 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | Dramaclaw | AI creative project | [GitHub](https://github.com/dramaclaw/dramaclaw) |
 | GPT-6 Astra Miniapps | Mini-app collection / AI interface | [Website](https://miniapps.ai/gpt-6-astra) |
 |higgsfield.ai|Learn and get Certificate|[website](https://higgsfield.ai/academy)|
+|Wan2.2|Wan-Video| [github](https://github.com/Wan-Video/Wan2.2)|
+|ltx.io|From films to interactive worlds and physical intelligence, the future runs on LTX. Open to adapt. Efficient at scale. Yours to build on.|[web](https://ltx.io/)|
 
 ## 🧠 Memory & Knowledge Management
 
