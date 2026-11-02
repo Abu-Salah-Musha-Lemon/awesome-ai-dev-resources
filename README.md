@@ -91,6 +91,7 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | FingerprintJS | Browser fingerprinting library | [GitHub](https://github.com/fingerprintjs/fingerprintjs) |
 | Agent Reach | Agent connectivity / tooling project | [GitHub](https://github.com/Panniantong/agent-reach) |
 | Brusheezy | Photoshop brushes and design assets | [Website](https://www.brusheezy.com/free/photoshop-cc) |
+|elephant-goldfish-model|google elephant-goldfish-model|[Github](https://github.com/google/elephant-goldfish-model)|
 
 ## 📈 Marketing & Content Creation
 
