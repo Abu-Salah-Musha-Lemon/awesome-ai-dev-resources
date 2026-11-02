@@ -60,6 +60,7 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | Mintly | AI-assisted ad creation | [Website](https://usemintly.com/) |
 | Dramaclaw | AI creative project | [GitHub](https://github.com/dramaclaw/dramaclaw) |
 | GPT-6 Astra Miniapps | Mini-app collection / AI interface | [Website](https://miniapps.ai/gpt-6-astra) |
+|higgsfield.ai|Learn and get Certificate|[website](https://higgsfield.ai/academy)|
 
 ## 🧠 Memory & Knowledge Management
 
