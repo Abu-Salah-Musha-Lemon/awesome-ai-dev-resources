@@ -48,6 +48,7 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | Browserbase Skills | Browser automation skills | Link to repository needed |
 | Ruflo | AI agent / workflow project | Link to repository needed |
 | Lobe Chat | Open-source AI chat framework | [GitHub](https://github.com/lobehub/lobe-chat) |
+|Ecc|Ecc|[github](https://github.com/affaan-m/ecc)|
 
 ## 🎨 AI Design & Image Generation
 
