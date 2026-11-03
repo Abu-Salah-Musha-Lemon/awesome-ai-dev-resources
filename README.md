@@ -49,6 +49,7 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | Ruflo | AI agent / workflow project | Link to repository needed |
 | Lobe Chat | Open-source AI chat framework | [GitHub](https://github.com/lobehub/lobe-chat) |
 |Ecc|Ecc|[github](https://github.com/affaan-m/ecc)|
+|rea|rea|[github](https://github.com/morluto/rea)|
 
 ## 🎨 AI Design & Image Generation
 
