@@ -36,6 +36,7 @@ A curated collection of AI tools, agents, developer utilities, automation framew
 | UI-TARS Desktop | Desktop AI agent project | [GitHub](https://github.com/bytedance/UI-TARS-desktop) |
 | Dify | Platform for building AI applications and workflows | [GitHub](https://github.com/langgenius/dify) |
 | Browser Use | Browser automation for AI agents | [GitHub](https://github.com/browser-use/browser-use) |
+| agent-qa | Plain-English web, Android and iOS testing with persistent memidex memory and validated self-improvement | [Website](https://vostride.com) |
 | Video Use | Video-related tools from the Browser Use team | [GitHub](https://github.com/browser-use/video-use) |
 | OpenClaw | AI assistant and agent project | [GitHub](https://github.com/openclaw/openclaw) |
 | CrewAI | Framework for orchestrating role-based AI agents | [GitHub](https://github.com/crewAIInc/crewAI) |
